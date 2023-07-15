@@ -7,7 +7,7 @@ public class Main {
 
     public static final int CHUNK_SIZE = 500000000;
     private static final String URI_STRING = "https://geo.mirror.pkgbuild.com/iso/2023.07.01/archlinux-2023.07.01-x86_64.iso";
-    private static final String FILE_NAME = "C:\\Users\\andre\\Desktop\\Archlinux.2023.iso";
+    private static final String FILE_NAME = "D:\\Archlinux.2023.iso";
     private static final String TMP_FILE_NAME_PREFIX = FILE_NAME;
     private static final int MAX_RETRY = 3;
 
